@@ -9,7 +9,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Four Card Feature] (image-2.png)
+[Four Card Feature] (image-1.png)
 
 ### Links
 
