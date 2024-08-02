@@ -9,11 +9,11 @@ Users should be able to:
 
 ### Screenshot
 
-[Four Card Feature](image.png)
+[Four Card Feature] (image-2.png)
 
 ### Links
 
-- Live Site URL: [To be added]
+- Live Site URL: [https://rui-martins23.github.io/four-card-feature-frontendmentor/]
 
 ## My process
 ### Built with
